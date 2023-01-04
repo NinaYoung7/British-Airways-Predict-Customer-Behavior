@@ -35,17 +35,26 @@ I implemented XGBoost & Random Forest classification algorithms  to the customer
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/103723722/210661501-5427b3a2-bccb-418f-b6c7-2d1aacf7e34b.png">
 
 
-![image](https://user-images.githubusercontent.com/103723722/210660924-6259809d-ffc9-4143-bcea-b5bf7dbe04e5.png)
+![image](https://user-images.githubusercontent.com/103723722/210664840-810eacad-e33b-4b7b-8159-86fd9c29d8ea.png)
+
 
 I implemented XGBoost & Random Forest classification algorithms  to the customer bookings data set and evaluated the model's performance and output how each variable contributes to the predictive model's power.
 
 
-![image](https://user-images.githubusercontent.com/103723722/210663344-e2c7fe4d-c8e5-4f34-90c4-164fb61ff02d.png)
+![image](https://user-images.githubusercontent.com/103723722/210664235-9a17e249-9582-44b6-b0a0-b0983c7e1541.png)
+
+
 
 As a result, the 'Purchase_lead' and 'Length_of_stay' are the top 2 reasons. 'Purchase_lead' is the number of days between travel date and booking date.
 Based on that, we can create new promotion startegy like proving discount if people book the flights 60 days prior to departure to increase the bookings. Or we can sent alerts to the passengers haven't completed the booking processes.
 
 Flight hours is the third importance factor, we can also send promotion and an alert to those customers who start booking but don't finished.
+
+
+
+
+
+
 
 
     Copyright [2023] [NING YANG]
